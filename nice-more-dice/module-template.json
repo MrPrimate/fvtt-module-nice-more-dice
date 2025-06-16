@@ -14,11 +14,10 @@
     "minimum": "0.7.9",
     "verified": 13
   },
-  "scripts": ["scripts/nice-more-dice.json"],
+  "scripts": ["scripts/nice-more-dice.js"],
   "url": "https://github.com/mrprimate/fvtt-module-Nice-more-Dice",
   "download": "https://github.com/mrprimate/fvtt-module-nice-more-dice/releases/download/VERSION/nice-more-dice.zip",
   "manifest": "https://github.com/mrprimate/fvtt-module-nice-more-dice/releases/download/latest/module.json",
-
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "10",
   "relationships": {

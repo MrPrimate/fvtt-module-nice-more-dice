@@ -1,4 +1,4 @@
-name: ddb-importer build
+name: build release
 
 on:
   workflow_dispatch:

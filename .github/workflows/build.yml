@@ -22,7 +22,7 @@ jobs:
     - name: Create Release Zip
       working-directory: ./nice-more-dice
       run: |
-        mv ./module.json ./module.json # Move the module.json to the root of the zip
+        mv ../module.json ./module.json # Move the module.json to the root of the zip
         zip -r ../nice-more-dice.zip module.json faces scripts textures Used-Assets-Credits.txt       # Add folders/files here
     - name: Create Release                                # Create an additional release for this version
       id: create_versioned_release

@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.0
+
+- V13 compatible
+
 ## 1.2.0
 - NEW: Halloween Dice Set - all the spookiness you could ever want
 - NEW: Candy Corn Texture - non-edible, but colourful

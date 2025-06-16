@@ -6,7 +6,7 @@ on:
     branches:
       - main
     paths:
-      - './nice-more-dice/package.json'
+      - './package.json'
 
 jobs:
   build:

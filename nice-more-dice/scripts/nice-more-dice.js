@@ -1,112 +1,112 @@
 Hooks.on('diceSoNiceReady', (dice3d) => {
 
-	dice3d.addTexture("colourdifference", {
-	    name: "⁂ Colour Dodge",
-	    composite: "difference",
-	    source: "modules/nice-more-dice/textures/bark.webp",
+  dice3d.addTexture("colourdifference", {
+      name: "⁂ Colour Dodge",
+      composite: "difference",
+      source: "modules/nice-more-dice/textures/bark.webp",
         bump: "modules/nice-more-dice/textures/barkb.webp"
-	});
+  });
 
     dice3d.addTexture("Blood", {
-	    name: "⁂ Black Blood",
-	    composite: "multiply",
-	    source: "modules/nice-more-dice/textures/bwblood.webp"
-	});
-	
+      name: "⁂ Black Blood",
+      composite: "multiply",
+      source: "modules/nice-more-dice/textures/bwblood.webp"
+  });
+  
     dice3d.addTexture("ccorn", {
-	    name: "⁂ Candy Corn",
-	    composite: "multiply",
-	    source: "modules/nice-more-dice/textures/candycorn.webp"
-	});	
+      name: "⁂ Candy Corn",
+      composite: "multiply",
+      source: "modules/nice-more-dice/textures/candycorn.webp"
+  });  
 
     dice3d.addTexture("cosmic", {
-	    name: "⁂ Cosmic",
-	    composite: "multiply",
-	    source: "modules/nice-more-dice/textures/cosmic.webp"
-	});
+      name: "⁂ Cosmic",
+      composite: "multiply",
+      source: "modules/nice-more-dice/textures/cosmic.webp"
+  });
 
- 	dice3d.addTexture("Claws", {
-	    name: "⁂ Claws",
-	    composite: "difference",
-	    source: "modules/nice-more-dice/textures/claws.webp",
+   dice3d.addTexture("Claws", {
+      name: "⁂ Claws",
+      composite: "difference",
+      source: "modules/nice-more-dice/textures/claws.webp",
         bump: "modules/nice-more-dice/textures/clawsb.webp"
-	});
+  });
 
- 	dice3d.addTexture("Gears", {
-	    name: "⁂ Gears",
-	    composite: "multiply",
-	    source: "modules/nice-more-dice/textures/gears.webp",
+   dice3d.addTexture("Gears", {
+      name: "⁂ Gears",
+      composite: "multiply",
+      source: "modules/nice-more-dice/textures/gears.webp",
         bump: "modules/nice-more-dice/textures/gearsb.webp"
-	});
+  });
 
   dice3d.addTexture("Grid", {
-	    name: "⁂ Grid",
-	    composite: "difference",
-	    source: "modules/nice-more-dice/textures/grid.webp"
-	});
+      name: "⁂ Grid",
+      composite: "difference",
+      source: "modules/nice-more-dice/textures/grid.webp"
+  });
 
-	dice3d.addTexture("GoldenBranches", {
-	    name: "⁂ Golden Branches",
-	    composite: "multiply",
-	    source: "modules/nice-more-dice/textures/goldenbranches.webp"
-	});
+  dice3d.addTexture("GoldenBranches", {
+      name: "⁂ Golden Branches",
+      composite: "multiply",
+      source: "modules/nice-more-dice/textures/goldenbranches.webp"
+  });
 
- 	dice3d.addTexture("Hex", {
-	    name: "⁂ Hex",
-	    composite: "hard-light",
-	    source: "modules/nice-more-dice/textures/hex.webp"
-	});
+   dice3d.addTexture("Hex", {
+      name: "⁂ Hex",
+      composite: "hard-light",
+      source: "modules/nice-more-dice/textures/hex.webp"
+  });
 
     dice3d.addTexture("Hearts", {
-	    name: "⁂ Hearts",
-	    composite: "difference",
-	    source: "modules/nice-more-dice/textures/hearts.webp",
+      name: "⁂ Hearts",
+      composite: "difference",
+      source: "modules/nice-more-dice/textures/hearts.webp",
         bump: "modules/nice-more-dice/textures/heartsb.webp"
-	});
+  });
 
-	dice3d.addTexture("Lavash", {
-	    name: "⁂ Lavash",
-	    composite: "multiply",
-	    source: "modules/nice-more-dice/textures/lavash.webp"
-	});
+  dice3d.addTexture("Lavash", {
+      name: "⁂ Lavash",
+      composite: "multiply",
+      source: "modules/nice-more-dice/textures/lavash.webp"
+  });
 
- 	dice3d.addTexture("Leafage", {
-	    name: "⁂ Leafage",
-	    composite: "multiply",
-	    source: "modules/nice-more-dice/textures/leafage.webp",
+   dice3d.addTexture("Leafage", {
+      name: "⁂ Leafage",
+      composite: "multiply",
+      source: "modules/nice-more-dice/textures/leafage.webp",
         bump: "modules/nice-more-dice/textures/leafageb.webp"
-	});
+  });
 
     dice3d.addTexture("orbs", {
-	    name: "⁂ Orbs",
-	    composite: "multiply",
-	    source: "modules/nice-more-dice/textures/orbs.webp"
-	});
+      name: "⁂ Orbs",
+      composite: "multiply",
+      source: "modules/nice-more-dice/textures/orbs.webp"
+  });
 
- 	dice3d.addTexture("paws", {
-	    name: "⁂ Paws",
-	    composite: "difference",
-	    source: "modules/nice-more-dice/textures/paws.webp",
+   dice3d.addTexture("paws", {
+      name: "⁂ Paws",
+      composite: "difference",
+      source: "modules/nice-more-dice/textures/paws.webp",
         bump: "modules/nice-more-dice/textures/pawsb.webp"
-	});
+  });
 
     dice3d.addTexture("redwave", {
-	    name: "⁂ Redwave",
-	    composite: "multiply",
-	    source: "modules/nice-more-dice/textures/redwave.webp"
-	});
+      name: "⁂ Redwave",
+      composite: "multiply",
+      source: "modules/nice-more-dice/textures/redwave.webp"
+  });
 
     dice3d.addTexture("Rainbow", {
-	    name: "⁂ Rainbow",
-	    composite: "difference",
-	    source: "modules/nice-more-dice/textures/rainbow.webp"
-	});
-	
+      name: "⁂ Rainbow",
+      composite: "difference",
+      source: "modules/nice-more-dice/textures/rainbow.webp"
+  });
+  
     dice3d.addTexture("rbmarb", {
-	    name: "⁂ Roman Superiority Marble",
-	    composite: "multiply",
-	    source: "modules/nice-more-dice/textures/rbmarb.webp"
-	});
+      name: "⁂ Roman Superiority Marble",
+      composite: "multiply",
+      source: "modules/nice-more-dice/textures/rbmarb.webp"
+  });
 
   dice3d.addSystem({id:"Dragon20",name:"⁂ Dragon20 (d20, 20 best)"},false);
 
@@ -164,7 +164,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
       'modules/nice-more-dice/faces/scriblemotions/d6-5.webp',
       'modules/nice-more-dice/faces/scriblemotions/d6-6.webp'
     ],
-	system:"scriblemotions"
+  system:"scriblemotions"
   });
 
  dice3d.addSystem({id:"Hex",name:"⁂ Hex (df)"},false);
@@ -181,7 +181,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
       'modules/nice-more-dice/faces/hex/dfb.webp',
       'modules/nice-more-dice/faces/hex/dfpb.webp'
     ],
-	system:"Hex"
+  system:"Hex"
   });
 
  dice3d.addSystem({id:"CL",name:"⁂ Celtic Lynx (Set)"},false);
@@ -198,7 +198,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
       'modules/nice-more-dice/faces/celticlynx/dfb.webp',
       'modules/nice-more-dice/faces/celticlynx/dfpb.webp'
     ],
-	system:"CL"
+  system:"CL"
   });
 
   dice3d.addDicePreset({
@@ -211,7 +211,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
       'modules/nice-more-dice/faces/celticlynx/d2-1b.webp',
       'modules/nice-more-dice/faces/celticlynx/d2-2b.webp'
     ],
-	system:"CL"
+  system:"CL"
   });
 
   dice3d.addDicePreset({
@@ -224,7 +224,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
       'modules/nice-more-dice/faces/celticlynx/dc-1b.webp',
       'modules/nice-more-dice/faces/celticlynx/dc-2b.webp'
     ],
-	system:"CL"
+  system:"CL"
   });
 
   dice3d.addDicePreset({
@@ -235,7 +235,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
       'modules/nice-more-dice/faces/celticlynx/d4-3.webp',
       'modules/nice-more-dice/faces/celticlynx/d4-4.webp'
     ],
-	system:"CL"
+  system:"CL"
   });
 
   dice3d.addDicePreset({
@@ -256,7 +256,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
       'modules/nice-more-dice/faces/celticlynx/d6-5b.webp',
       'modules/nice-more-dice/faces/celticlynx/d6-6b.webp'
     ],
-	system:"CL"
+  system:"CL"
   });
 
   dice3d.addDicePreset({
@@ -281,7 +281,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
       'modules/nice-more-dice/faces/celticlynx/d8-7b.webp',
       'modules/nice-more-dice/faces/celticlynx/d8-8b.webp'
     ],
-	system:"CL"
+  system:"CL"
   });
 
   dice3d.addDicePreset({
@@ -310,7 +310,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
       'modules/nice-more-dice/faces/celticlynx/d10-9b.webp',
       'modules/nice-more-dice/faces/celticlynx/d10-10b.webp'
     ],
-	system:"CL"
+  system:"CL"
   });
 
   dice3d.addDicePreset({
@@ -342,7 +342,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
       'modules/nice-more-dice/faces/celticlynx/d12-10b.webp',
       'modules/nice-more-dice/faces/celticlynx/d12-11b.webp',
       'modules/nice-more-dice/faces/celticlynx/d12-12b.webp'
-	 ],
+   ],
       system:"CL"
   });
 
@@ -372,7 +372,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
       'modules/nice-more-dice/faces/celticlynx/d100-90b.webp',
       'modules/nice-more-dice/faces/celticlynx/d100-100b.webp'
     ],
-	system:"CL"
+  system:"CL"
   });
 
   dice3d.addDicePreset({
@@ -433,7 +433,7 @@ dice3d.addSystem({id:"PurpleMagic",name:"⁂ Purple Magic (Set)"},false);
       'modules/nice-more-dice/faces/purplemagic/df.webp',
       'modules/nice-more-dice/faces/purplemagic/dfp.webp',
     ],
-	system:"PurpleMagic"
+  system:"PurpleMagic"
   });
 
   dice3d.addDicePreset({
@@ -442,7 +442,7 @@ dice3d.addSystem({id:"PurpleMagic",name:"⁂ Purple Magic (Set)"},false);
       'modules/nice-more-dice/faces/purplemagic/d2-1.webp',
       'modules/nice-more-dice/faces/purplemagic/d2-2.webp'
     ],
-	system:"PurpleMagic"
+  system:"PurpleMagic"
   });
 
   dice3d.addDicePreset({
@@ -451,7 +451,7 @@ dice3d.addSystem({id:"PurpleMagic",name:"⁂ Purple Magic (Set)"},false);
       'modules/nice-more-dice/faces/purplemagic/dc-1.webp',
       'modules/nice-more-dice/faces/purplemagic/dc-2.webp'
     ],
-	system:"PurpleMagic"
+  system:"PurpleMagic"
   });
 
   dice3d.addDicePreset({
@@ -462,7 +462,7 @@ dice3d.addSystem({id:"PurpleMagic",name:"⁂ Purple Magic (Set)"},false);
       'modules/nice-more-dice/faces/purplemagic/d4-3.webp',
       'modules/nice-more-dice/faces/purplemagic/d4-4.webp'
     ],
-	system:"PurpleMagic"
+  system:"PurpleMagic"
   });
 
   dice3d.addDicePreset({
@@ -475,7 +475,7 @@ dice3d.addSystem({id:"PurpleMagic",name:"⁂ Purple Magic (Set)"},false);
       'modules/nice-more-dice/faces/purplemagic/d6-5.webp',
       'modules/nice-more-dice/faces/purplemagic/d6-6.webp'
     ],
-	system:"PurpleMagic"
+  system:"PurpleMagic"
   });
 
   dice3d.addDicePreset({
@@ -490,7 +490,7 @@ dice3d.addSystem({id:"PurpleMagic",name:"⁂ Purple Magic (Set)"},false);
       'modules/nice-more-dice/faces/purplemagic/d8-7.webp',
       'modules/nice-more-dice/faces/purplemagic/d8-8.webp'
     ],
-	system:"PurpleMagic"
+  system:"PurpleMagic"
   });
 
   dice3d.addDicePreset({
@@ -507,7 +507,7 @@ dice3d.addSystem({id:"PurpleMagic",name:"⁂ Purple Magic (Set)"},false);
       'modules/nice-more-dice/faces/purplemagic/d10-9.webp',
       'modules/nice-more-dice/faces/purplemagic/d10-10.webp'
     ],
-	system:"PurpleMagic"
+  system:"PurpleMagic"
   });
 
   dice3d.addDicePreset({
@@ -526,7 +526,7 @@ dice3d.addSystem({id:"PurpleMagic",name:"⁂ Purple Magic (Set)"},false);
       'modules/nice-more-dice/faces/purplemagic/d12-11.webp',
       'modules/nice-more-dice/faces/purplemagic/d12-12.webp'
     ],
-	system:"PurpleMagic"
+  system:"PurpleMagic"
   });
 
 
@@ -544,7 +544,7 @@ dice3d.addSystem({id:"PurpleMagic",name:"⁂ Purple Magic (Set)"},false);
       'modules/nice-more-dice/faces/purplemagic/d100-90.webp',
       'modules/nice-more-dice/faces/purplemagic/d100-100.webp'
     ],
-	system:"PurpleMagic"
+  system:"PurpleMagic"
   });
 
   dice3d.addDicePreset({
@@ -583,7 +583,7 @@ dice3d.addSystem({id:"Maze",name:"⁂ Maze (Set)"},false);
       'modules/nice-more-dice/faces/maze/df/df.webp',
       'modules/nice-more-dice/faces/maze/df/dfp.webp'
     ],
-	system:"Maze"
+  system:"Maze"
   });
 
 dice3d.addDicePreset({
@@ -592,7 +592,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/maze/dc/dc-1.webp',
       'modules/nice-more-dice/faces/maze/dc/dc-2.webp'
     ],
-	system:"Maze"
+  system:"Maze"
   });
 
 dice3d.addDicePreset({
@@ -601,7 +601,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/maze/d2/d2-1.webp',
       'modules/nice-more-dice/faces/maze/d2/d2-2.webp'
     ],
-	system:"Maze"
+  system:"Maze"
   });
 
   dice3d.addDicePreset({
@@ -612,7 +612,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/maze/d4/d4-3.webp',
       'modules/nice-more-dice/faces/maze/d4/d4-4.webp'
     ],
-	system:"Maze"
+  system:"Maze"
   });
 
   dice3d.addDicePreset({
@@ -625,7 +625,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/maze/d6/d6-5.webp',
       'modules/nice-more-dice/faces/maze/d6/d6-6.webp'
     ],
-	system:"Maze"
+  system:"Maze"
   });
 
   dice3d.addDicePreset({
@@ -640,7 +640,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/maze/d8/d8-7.webp',
       'modules/nice-more-dice/faces/maze/d8/d8-8.webp'
     ],
-	system:"Maze"
+  system:"Maze"
   });
 
   dice3d.addDicePreset({
@@ -657,7 +657,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/maze/d10/d10-9.webp',
       'modules/nice-more-dice/faces/maze/d10/d10-10.webp'
     ],
-	system:"Maze"
+  system:"Maze"
   });
 
      dice3d.addDicePreset({
@@ -676,7 +676,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/maze/d12/d12-11.webp',
       'modules/nice-more-dice/faces/maze/d12/d12-12.webp'
     ],
-	system:"Maze"
+  system:"Maze"
   });
 
   dice3d.addDicePreset({
@@ -693,7 +693,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/maze/d100/d100-90.webp',
       'modules/nice-more-dice/faces/maze/d100/d100-100.webp'
     ],
-	system:"Maze"
+  system:"Maze"
   });
 
   dice3d.addDicePreset({
@@ -732,7 +732,7 @@ dice3d.addSystem({id:"FlameStalker",name:"⁂ Flame Stalker (Set)"},false);
       'modules/nice-more-dice/faces/flamestalker/df/df.webp',
       'modules/nice-more-dice/faces/flamestalker/df/dfp.webp'
     ],
-	system:"FlameStalker"
+  system:"FlameStalker"
   });
 
 dice3d.addDicePreset({
@@ -741,7 +741,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/flamestalker/dc/dc-1.webp',
       'modules/nice-more-dice/faces/flamestalker/dc/dc-2.webp'
     ],
-	system:"FlameStalker"
+  system:"FlameStalker"
   });
 
   dice3d.addDicePreset({
@@ -750,7 +750,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/flamestalker/d2/d2-1.webp',
       'modules/nice-more-dice/faces/flamestalker/d2/d2-2.webp'
     ],
-	system:"FlameStalker"
+  system:"FlameStalker"
   });
 
   dice3d.addDicePreset({
@@ -761,7 +761,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/flamestalker/d4/d4-3.webp',
       'modules/nice-more-dice/faces/flamestalker/d4/d4-4.webp'
     ],
-	system:"FlameStalker"
+  system:"FlameStalker"
   });
 
   dice3d.addDicePreset({
@@ -774,7 +774,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/flamestalker/d6/d6-5.webp',
       'modules/nice-more-dice/faces/flamestalker/d6/d6-6.webp'
     ],
-	system:"FlameStalker"
+  system:"FlameStalker"
   });
 
   dice3d.addDicePreset({
@@ -789,7 +789,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/flamestalker/d8/d8-7.webp',
       'modules/nice-more-dice/faces/flamestalker/d8/d8-8.webp'
     ],
-	system:"FlameStalker"
+  system:"FlameStalker"
   });
 
   dice3d.addDicePreset({
@@ -806,7 +806,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/flamestalker/d10/d10-9.webp',
       'modules/nice-more-dice/faces/flamestalker/d10/d10-10.webp'
     ],
-	system:"FlameStalker"
+  system:"FlameStalker"
   });
 
   dice3d.addDicePreset({
@@ -825,7 +825,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/flamestalker/d12/d12-11.webp',
       'modules/nice-more-dice/faces/flamestalker/d12/d12-12.webp'
     ],
-	system:"FlameStalker"
+  system:"FlameStalker"
   });
 
 
@@ -843,7 +843,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/flamestalker/d100/d100-90.webp',
       'modules/nice-more-dice/faces/flamestalker/d100/d100-100.webp'
     ],
-	system:"FlameStalker"
+  system:"FlameStalker"
   });
 
   dice3d.addDicePreset({
@@ -881,7 +881,7 @@ dice3d.addSystem({id:"Grifter",name:"⁂ Grifter (Set)"},false);
       'modules/nice-more-dice/faces/grifter/dc/dc-1.webp',
       'modules/nice-more-dice/faces/grifter/dc/dc-2.webp'
     ],
-	system:"Grifter"
+  system:"Grifter"
   });
 
   dice3d.addDicePreset({
@@ -890,7 +890,7 @@ dice3d.addSystem({id:"Grifter",name:"⁂ Grifter (Set)"},false);
       'modules/nice-more-dice/faces/grifter/d2/d2-1.webp',
       'modules/nice-more-dice/faces/grifter/d2/d2-2.webp'
     ],
-	system:"Grifter"
+  system:"Grifter"
   });
 
   dice3d.addDicePreset({
@@ -901,7 +901,7 @@ dice3d.addSystem({id:"Grifter",name:"⁂ Grifter (Set)"},false);
       'modules/nice-more-dice/faces/grifter/d4/d4-3.webp',
       'modules/nice-more-dice/faces/grifter/d4/d4-4.webp',
     ],
-	system:"Grifter"
+  system:"Grifter"
   });
 
   dice3d.addDicePreset({
@@ -911,7 +911,7 @@ dice3d.addSystem({id:"Grifter",name:"⁂ Grifter (Set)"},false);
       'modules/nice-more-dice/faces/grifter/df/df.webp',
       'modules/nice-more-dice/faces/grifter/df/dfp.webp'
     ],
-	system:"Grifter"
+  system:"Grifter"
   });
 
 dice3d.addDicePreset({
@@ -924,7 +924,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/grifter/d6/d6-5.webp',
       'modules/nice-more-dice/faces/grifter/d6/d6-6.webp'
     ],
-	system:"Grifter"
+  system:"Grifter"
   });
 
   dice3d.addDicePreset({
@@ -939,7 +939,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/grifter/d8/d8-7.webp',
       'modules/nice-more-dice/faces/grifter/d8/d8-8.webp'
     ],
-	system:"Grifter"
+  system:"Grifter"
   });
 
   dice3d.addDicePreset({
@@ -956,7 +956,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/grifter/d10/d10-9.webp',
       'modules/nice-more-dice/faces/grifter/d10/d10-10.webp'
     ],
-	system:"Grifter"
+  system:"Grifter"
   });
 
   dice3d.addDicePreset({
@@ -975,7 +975,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/grifter/d12/d12-11.webp',
       'modules/nice-more-dice/faces/grifter/d12/d12-12.webp'
     ],
-	system:"Grifter"
+  system:"Grifter"
   });
 
   dice3d.addDicePreset({
@@ -1019,7 +1019,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/grifter/d100/d100-90.webp',
       'modules/nice-more-dice/faces/grifter/d100/d100-00.webp'
     ],
-	system:"Grifter"
+  system:"Grifter"
   });
 
  dice3d.addSystem({id:"planetary",name:"⁂ Planetary (Set)"},false);
@@ -1031,7 +1031,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/planetary/df.webp',
       'modules/nice-more-dice/faces/planetary/dfp.webp'
     ],
-	system:"planetary"
+  system:"planetary"
   });
 
   dice3d.addDicePreset({
@@ -1040,7 +1040,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/planetary/d2-1.webp',
       'modules/nice-more-dice/faces/planetary/d2-2.webp'
     ],
-	system:"planetary"
+  system:"planetary"
   });
 
   dice3d.addDicePreset({
@@ -1049,7 +1049,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/planetary/dc-1.webp',
       'modules/nice-more-dice/faces/planetary/dc-2.webp'
     ],
-	system:"planetary"
+  system:"planetary"
   });
 
   dice3d.addDicePreset({
@@ -1060,7 +1060,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/planetary/d4-3.webp',
       'modules/nice-more-dice/faces/planetary/d4-4.webp'
     ],
-	system:"planetary"
+  system:"planetary"
   });
 
   dice3d.addDicePreset({
@@ -1073,7 +1073,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/planetary/d6-5.webp',
       'modules/nice-more-dice/faces/planetary/d6-6.webp'
     ],
-	system:"planetary"
+  system:"planetary"
   });
 
   dice3d.addDicePreset({
@@ -1088,7 +1088,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/planetary/d8-7.webp',
       'modules/nice-more-dice/faces/planetary/d8-8.webp'
     ],
-	system:"planetary"
+  system:"planetary"
   });
 
   dice3d.addDicePreset({
@@ -1105,7 +1105,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/planetary/d10-9.webp',
       'modules/nice-more-dice/faces/planetary/d10-10.webp'
     ],
-	system:"planetary"
+  system:"planetary"
   });
 
   dice3d.addDicePreset({
@@ -1141,7 +1141,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/planetary/d100-90.webp',
       'modules/nice-more-dice/faces/planetary/d100-100.webp'
     ],
-	system:"planetary"
+  system:"planetary"
   });
 
   dice3d.addDicePreset({
@@ -1169,8 +1169,8 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/planetary/d20-20.webp'
     ],
     system:"planetary"
-  });	
-	
+  });  
+  
  dice3d.addSystem({id:"roman",name:"⁂ Roman Superiority (Set)"},false);
 
   dice3d.addDicePreset({
@@ -1185,7 +1185,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/roman/dfb.webp',
       'modules/nice-more-dice/faces/roman/dfpb.webp'
     ],
-	system:"roman"
+  system:"roman"
   });
 
   dice3d.addDicePreset({
@@ -1198,7 +1198,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/roman/d2-1b.webp',
       'modules/nice-more-dice/faces/roman/d2-2b.webp'
     ],
-	system:"roman"
+  system:"roman"
   });
 
   dice3d.addDicePreset({
@@ -1211,7 +1211,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/roman/dc-1b.webp',
       'modules/nice-more-dice/faces/roman/dc-2b.webp'
     ],
-	system:"roman"
+  system:"roman"
   });
 
   dice3d.addDicePreset({
@@ -1240,7 +1240,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/roman/d6-5b.webp',
       'modules/nice-more-dice/faces/roman/d6-6b.webp'
     ],
-	system:"roman"
+  system:"roman"
   });
 
   dice3d.addDicePreset({
@@ -1265,7 +1265,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/roman/d8-7b.webp',
       'modules/nice-more-dice/faces/roman/d8-8b.webp'
     ],
-	system:"roman"
+  system:"roman"
   });
 
    dice3d.addDicePreset({
@@ -1294,7 +1294,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/roman/d10-9b.webp',
       'modules/nice-more-dice/faces/roman/d10-10b.webp'
     ],
-	system:"roman"
+  system:"roman"
   });
 
   dice3d.addDicePreset({
@@ -1326,7 +1326,7 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/roman/d12-10b.webp',
       'modules/nice-more-dice/faces/roman/d12-11b.webp',
       'modules/nice-more-dice/faces/roman/d12-12b.webp'
-	 ],
+   ],
       system:"roman"
   });
 
@@ -1405,9 +1405,9 @@ dice3d.addDicePreset({
       'modules/nice-more-dice/faces/roman/d100-90b.webp',
       'modules/nice-more-dice/faces/roman/d100-100b.webp'
     ],
-	system:"roman"
-  });	
-	
+  system:"roman"
+  });  
+  
   dice3d.addSystem({id:"GMDice",name:"⁂ GM Dice (d20)"},false);
 
   dice3d.addDicePreset({
@@ -1451,7 +1451,7 @@ dice3d.addSystem({id:"Hallo",name:"⁂ Halloween (Set)"},false);
       'modules/nice-more-dice/faces/halloween/dfb.webp',
       'modules/nice-more-dice/faces/halloween/dfpb.webp'
     ],
-	system:"Hallo"
+  system:"Hallo"
   });
 
   dice3d.addDicePreset({
@@ -1464,7 +1464,7 @@ dice3d.addSystem({id:"Hallo",name:"⁂ Halloween (Set)"},false);
       'modules/nice-more-dice/faces/halloween/d2-1b.webp',
       'modules/nice-more-dice/faces/halloween/d2-2b.webp'
     ],
-	system:"Hallo"
+  system:"Hallo"
   });
 
   dice3d.addDicePreset({
@@ -1477,7 +1477,7 @@ dice3d.addSystem({id:"Hallo",name:"⁂ Halloween (Set)"},false);
       'modules/nice-more-dice/faces/halloween/dc-1b.webp',
       'modules/nice-more-dice/faces/halloween/dc-2b.webp'
     ],
-	system:"Hallo"
+  system:"Hallo"
   });
 
   dice3d.addDicePreset({
@@ -1488,7 +1488,7 @@ dice3d.addSystem({id:"Hallo",name:"⁂ Halloween (Set)"},false);
       'modules/nice-more-dice/faces/halloween/d4-3.webp',
       'modules/nice-more-dice/faces/halloween/d4-4.webp'
     ],
-	system:"Hallo"
+  system:"Hallo"
   });
 
   dice3d.addDicePreset({
@@ -1509,7 +1509,7 @@ dice3d.addSystem({id:"Hallo",name:"⁂ Halloween (Set)"},false);
       'modules/nice-more-dice/faces/halloween/d6-5b.webp',
       'modules/nice-more-dice/faces/halloween/d6-6b.webp'
     ],
-	system:"Hallo"
+  system:"Hallo"
   });
 
   dice3d.addDicePreset({
@@ -1534,7 +1534,7 @@ dice3d.addSystem({id:"Hallo",name:"⁂ Halloween (Set)"},false);
       'modules/nice-more-dice/faces/halloween/d8-7b.webp',
       'modules/nice-more-dice/faces/halloween/d8-8b.webp'
     ],
-	system:"Hallo"
+  system:"Hallo"
   });
 
   dice3d.addDicePreset({
@@ -1563,7 +1563,7 @@ dice3d.addSystem({id:"Hallo",name:"⁂ Halloween (Set)"},false);
       'modules/nice-more-dice/faces/halloween/d10-9b.webp',
       'modules/nice-more-dice/faces/halloween/d10-10b.webp'
     ],
-	system:"Hallo"
+  system:"Hallo"
   });
 
   dice3d.addDicePreset({
@@ -1595,7 +1595,7 @@ dice3d.addSystem({id:"Hallo",name:"⁂ Halloween (Set)"},false);
       'modules/nice-more-dice/faces/halloween/d12-10b.webp',
       'modules/nice-more-dice/faces/halloween/d12-11b.webp',
       'modules/nice-more-dice/faces/halloween/d12-12b.webp'
-	 ],
+   ],
       system:"Hallo"
   });
 
@@ -1625,7 +1625,7 @@ dice3d.addSystem({id:"Hallo",name:"⁂ Halloween (Set)"},false);
       'modules/nice-more-dice/faces/halloween/d100-90b.webp',
       'modules/nice-more-dice/faces/halloween/d100-100b.webp'
     ],
-	system:"Hallo"
+  system:"Hallo"
   });
 
   dice3d.addDicePreset({
@@ -1674,6 +1674,6 @@ dice3d.addSystem({id:"Hallo",name:"⁂ Halloween (Set)"},false);
       'modules/nice-more-dice/faces/halloween/d20-19b.webp',
       'modules/nice-more-dice/faces/halloween/d20-20b.webp'
     ],
-    system:"Hallo"	
-  });	
+    system:"Hallo"  
+  });  
 });

@@ -9,7 +9,7 @@ If a texture comes on too strong or you can’t see it, change the background co
 
 Everything this module adds is marked with an asterism (⁂) so you can discern between what different DsN addons add.
 
-You can find proper previews with examples [here](https://github.com/LyncsCwtsh/fvtt-module-nice-more-dice/blob/main/Dice%20Preview.md).
+You can find proper previews with examples [here](https://github.com/LyncsCwtsh/fvtt-module-nice-more-dice/blob/main/DicePreview.md).
 
 ### Future Plans
 I definitely plan on adding more dice faces when inspiration strikes and I have the time. 
